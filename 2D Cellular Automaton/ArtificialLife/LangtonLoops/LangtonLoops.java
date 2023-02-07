@@ -40,6 +40,7 @@ public class Main {
             String curRule = scan.nextLine();
             ruleSet.put(curRule.substring(0,5), Integer.parseInt(""+curRule.charAt(5)));
         }
+        scan.close();
         return ruleSet;
     }
     
