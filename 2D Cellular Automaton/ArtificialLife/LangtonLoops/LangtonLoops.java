@@ -28,8 +28,6 @@ public class Main {
         printArr(arr);
     }
     
-    
-    
     public static HashMap getRuleSetFromFile() throws FileNotFoundException{
         
         File ruleFile = new File("ruleset.txt");
