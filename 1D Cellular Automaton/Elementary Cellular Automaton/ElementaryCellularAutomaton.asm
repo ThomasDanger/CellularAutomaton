@@ -4,7 +4,7 @@ One: .asciiz "$"
 Zero: .asciiz "."
 Endl: .asciiz "\n"
 PromptForRule: .asciiz "Enter Rule (0-255): "
-PromptForNumGen: .asciiz "Eneter Num Generations: "
+PromptForNumGen: .asciiz "Enter Num Generations: "
 
 .text
 
