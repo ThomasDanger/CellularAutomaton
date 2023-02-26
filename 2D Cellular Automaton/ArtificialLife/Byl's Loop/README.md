@@ -17,7 +17,26 @@ The greatest problem faced was the lack of documentation regarding Byl's loop. W
       RGYR
        RM 
 
-#### After 220 turns
+#### Turn 2
+        RR 
+       RYGR
+       RBGG
+        RRM
+        
+#### Turn 23
+        RR   RR 
+       RGGR RYGR
+       RYBGMRBGR
+        RRYRMRR 
+        
+        
+#### Turn 27
+        RGM  RR 
+       RGGR RYGR
+       RYBR RBGG
+        RR   RRM
+
+#### Turn 220
 
       RR  MRR  MRR  MRR  MRR  MRR   RR       RRRRYRR   RR   RR   RR  
      RGBR GGGR GYGR GBYR GGBR GGGR RYGR GB  RGGBYGGBR RBYR RYGR RGGR 
