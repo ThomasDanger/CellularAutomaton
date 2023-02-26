@@ -11,6 +11,14 @@ The greatest problem faced was the lack of documentation regarding Byl's loop. W
 
 ## Example Output
 
+#### Start
+       RR 
+      RGBR
+      RGYR
+       RM 
+
+#### After 220 turns
+
       RR  MRR  MRR  MRR  MRR  MRR   RR       RRRRYRR   RR   RR   RR  
      RGBR GGGR GYGR GBYR GGBR GGGR RYGR GB  RGGBYGGBR RBYR RYGR RGGR 
      RGYG RYBR RBGR RGGR RGYR RYBR RBGGYBGGR  BG RGYR RGGG RBGG RYBG 
