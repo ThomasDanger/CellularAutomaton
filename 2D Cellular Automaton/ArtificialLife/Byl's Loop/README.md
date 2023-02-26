@@ -1,6 +1,14 @@
 # Byl's Loop
 `Self Replicating Automaton`
 
+## Background
+
+Byl simplified Langton's loop by removing the inner sheath. The result is a more efficient (but less impressive looking) self-replicating loop. This program is a modified version of my Langton Loop project with a different ruleset.
+
+## Problems Faced
+
+The greatest problem faced was the lack of documentation regarding Byl's loop. What little information there was, was either incomplete or useless. Working with incomplete information, I was ultimately able to complete the information using trial and error.
+
 ## Example Output
 
       RR  MRR  MRR  MRR  MRR  MRR   RR       RRRRYRR   RR   RR   RR  
